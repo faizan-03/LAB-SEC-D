@@ -1,4 +1,4 @@
-# Lab Track - OOP Lab in C++ (Section C)
+# Lab Track - OOP Lab in C++ (Section D)
 
 <div align="center">
 
